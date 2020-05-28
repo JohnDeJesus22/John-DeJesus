@@ -40,3 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <script src="https://gist.github.com/JohnDeJesus22/938cbe1de15792d2304925753929f394.js"></script>
 
 ![](/images/ecdfbloghist.png)
+
+
+[test_nav_link](/ecdf/README.md)
